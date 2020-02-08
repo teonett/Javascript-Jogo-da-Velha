@@ -18,3 +18,5 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 </p>
+
+<img src="https://github.com/teonett/Javascript-Jogo-da-Velha/blob/master/Captura%20de%20Tela%202020-02-08%20%C3%A0s%2011.54.29.png">
